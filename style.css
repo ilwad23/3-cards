@@ -10,7 +10,6 @@
 }
 body {
   display: flex;
-  background-color:tomato;
   min-height: 100vh;
   min-width: 100vw;
   flex-direction: column;
